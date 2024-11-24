@@ -1,4 +1,4 @@
-# Software-Testing-Projects
+# Manual Software-Testing-Projects
 All the Manual testing projects with Documents
 
 
